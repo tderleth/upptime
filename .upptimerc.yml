@@ -5,11 +5,19 @@ repo: upptime # The name of this repository
 sites:
   - name: thomasderleth.de
     url: https://thomasderleth.de/
+    icon: https://thomasderleth.de/favicon.ico
+  - name: www.cloudything.com
+    url: https://www.cloudything.com/
+    icon: https://www.cloudything.com/favicon.ico
+  - name: tderleth.github.io/toolbox
+    url: https://tderleth.github.io/toolbox/
 
 status-website:
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime (tderleth)
+  logoUrl: https://thomasderleth.de/android-chrome-512x512.png
+  favicon: https://thomasderleth.de/favicon-32x32.png
+  theme: dark
+  name: Upptime (Thomas Derleth)
   navbar:
     - title: Status
       href: /
