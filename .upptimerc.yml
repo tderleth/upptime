@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://thomasderleth.de/android-chrome-512x512.png
   favicon: https://thomasderleth.de/favicon-32x32.png
   themeUrl: https://tderleth.github.io/upptime/theme.css
-  name: thomas derlrth | upptime
+  name: thomas derleth | upptime
   navbar:
     - title: Status
       href: /
