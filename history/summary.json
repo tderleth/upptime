@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 241,
-    "timeDay": 174,
-    "timeWeek": 252,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "time": 240,
+    "timeDay": 205,
+    "timeWeek": 238,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2022-04-14": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://www.cloudything.com/favicon.ico",
     "slug": "www-cloudything-com",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 396,
-    "timeDay": 110,
-    "timeWeek": 670,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 386,
+    "timeDay": 88,
+    "timeWeek": 662,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2022-04-19": 15,
       "2022-04-14": 19
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 40,
-    "timeWeek": 71,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 71,
+    "timeDay": 50,
+    "timeWeek": 65,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   }
 ]
