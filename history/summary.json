@@ -26,9 +26,9 @@
     "slug": "www-cloudything-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 320,
     "timeDay": 1141,
@@ -36,7 +36,6 @@
     "timeMonth": 261,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-07-29": 6,
       "2022-09-14": 48
     }
   },
