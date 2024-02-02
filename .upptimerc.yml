@@ -6,9 +6,6 @@ sites:
   - name: thomasderleth.de
     url: https://thomasderleth.de/
     icon: https://thomasderleth.de/favicon.ico
-  - name: www.cloudything.com
-    url: https://www.cloudything.com/
-    icon: https://www.cloudything.com/favicon.ico
   - name: tderleth.github.io/toolbox
     url: https://tderleth.github.io/toolbox/
 
@@ -26,6 +23,5 @@ status-website:
 
 i18n:
   footer: ""
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
