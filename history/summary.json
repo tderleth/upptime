@@ -4,19 +4,19 @@
     "url": "https://thomasderleth.de/",
     "icon": "https://thomasderleth.de/favicon.ico",
     "slug": "thomasderleth-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 234,
-    "timeWeek": 279,
-    "timeMonth": 240,
+    "timeDay": 244,
+    "timeWeek": 277,
+    "timeMonth": 241,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 6
     }
   },
   {
