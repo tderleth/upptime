@@ -4,11 +4,11 @@
     "url": "https://thomasderleth.de/",
     "icon": "https://thomasderleth.de/favicon.ico",
     "slug": "thomasderleth-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 244,
@@ -16,7 +16,7 @@
     "timeMonth": 241,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-03-16": 6
+      "2024-03-16": 0
     }
   },
   {
