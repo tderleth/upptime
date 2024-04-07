@@ -24,17 +24,19 @@
     "url": "https://tderleth.github.io/toolbox/",
     "icon": "https://icons.duckduckgo.com/ip3/tderleth.github.io.ico",
     "slug": "tderleth-github-io-toolbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 68,
-    "timeWeek": 97,
-    "timeMonth": 78,
-    "timeYear": 78,
-    "dailyMinutesDown": {}
+    "time": 97,
+    "timeDay": 1047,
+    "timeWeek": 338,
+    "timeMonth": 139,
+    "timeYear": 83,
+    "dailyMinutesDown": {
+      "2024-04-07": 0
+    }
   }
 ]
