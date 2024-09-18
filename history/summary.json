@@ -6,17 +6,16 @@
     "slug": "thomasderleth-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 314,
-    "timeDay": 1085,
-    "timeWeek": 796,
-    "timeMonth": 438,
-    "timeYear": 259,
+    "time": 315,
+    "timeDay": 1179,
+    "timeWeek": 841,
+    "timeMonth": 450,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-09-17": 6,
       "2024-03-16": 26
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 57,
-    "timeWeek": 96,
-    "timeMonth": 83,
+    "timeDay": 70,
+    "timeWeek": 90,
+    "timeMonth": 79,
     "timeYear": 80,
     "dailyMinutesDown": {}
   }
