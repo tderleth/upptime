@@ -4,7 +4,7 @@
     "url": "https://thomasderleth.de/",
     "icon": "https://thomasderleth.de/favicon.ico",
     "slug": "thomasderleth-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 236,
     "timeMonth": 341,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-01": 0
+    }
   },
   {
     "name": "tderleth.github.io/toolbox",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tderleth.github.io.ico",
     "slug": "tderleth-github-io-toolbox",
     "status": "down",
-    "uptime": "90.58%",
+    "uptime": "90.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.02%",
+    "uptimeYear": "67.89%",
     "time": 97,
     "timeDay": 173,
     "timeWeek": 90,
     "timeMonth": 93,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-09-01": 34,
+      "2025-09-01": 706,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
