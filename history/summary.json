@@ -4,16 +4,16 @@
     "url": "https://thomasderleth.de/",
     "icon": "https://thomasderleth.de/favicon.ico",
     "slug": "thomasderleth-de",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 390,
-    "timeDay": 393,
-    "timeWeek": 601,
-    "timeMonth": 611,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "86.01%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.93%",
+    "time": 391,
+    "timeDay": 436,
+    "timeWeek": 586,
+    "timeMonth": 607,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-10-20": 31,
@@ -21,7 +21,7 @@
       "2026-05-19": 32,
       "2026-06-06": 38,
       "2026-06-07": 56,
-      "2026-07-27": 0
+      "2026-07-27": 201
     }
   },
   {
@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tderleth.github.io.ico",
     "slug": "tderleth-github-io-toolbox",
     "status": "down",
-    "uptime": "71.58%",
+    "uptime": "71.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -41,7 +41,7 @@
     "timeMonth": 32,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2026-07-27": 295,
+      "2026-07-27": 496,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
