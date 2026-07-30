@@ -11,9 +11,9 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.93%",
     "time": 402,
-    "timeDay": 596,
-    "timeWeek": 1185,
-    "timeMonth": 767,
+    "timeDay": 240,
+    "timeWeek": 1151,
+    "timeMonth": 766,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-10-20": 31,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tderleth.github.io.ico",
     "slug": "tderleth-github-io-toolbox",
     "status": "down",
-    "uptime": "71.49%",
+    "uptime": "71.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 89,
-    "timeDay": 125,
+    "timeDay": 12,
     "timeWeek": 38,
     "timeMonth": 35,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2026-07-29": 175,
+      "2026-07-30": 160,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -404,8 +405,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   }
 ]
